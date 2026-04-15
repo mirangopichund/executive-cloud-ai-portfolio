@@ -5,8 +5,3 @@ Executive Summary
 I am an enterprise product and strategy leader focused on scaling Cloud and AI initiatives that drive customer growth, operational efficiency, and capital optimisation in large, regulated organisations.
 My work sits at the intersection of business strategy, cloud architecture, AI value creation, and responsible governance. This portfolio demonstrates how Clound AI can be translated from emerging technology into measurable commercial and customer outcomes, while managing cost, risk, and organisational change.
 This is not a developer portfolio. It is a collection of executive decision artefacts used to frame investment choices, design operating models, and lead transformation at scale.
-├── cloud-strategy/
-├── ai-value-portfolio/
-├── flagship-case/
-├── responsible-ai/
-└── leadership-narrative.md
